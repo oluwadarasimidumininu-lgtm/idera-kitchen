@@ -13,3 +13,32 @@ label{
     display: inline-block;
     width: 100px;
 }
+
+.par1{
+    background-color: honeydew;
+    padding: 30px;
+}
+
+.par2{
+    background-color: goldenrod;
+    padding: 30px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 60px;
+}
+
+.par3{
+    background-color: brown;
+    padding: 30px;
+}
+
+.director{
+    background-color:violet ;
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
